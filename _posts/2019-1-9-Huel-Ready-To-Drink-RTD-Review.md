@@ -29,8 +29,8 @@ I’m not sure if all Sainsbury’s stores stock Huel RTD - but Huel’s website
 
 ### Flavours
 #### Huel RTD Chocolate
-![RTD Chocolate Bottle](https://raw.githubusercontent.com/crdav/crdav.github.io/master/images/huel/RTD-Chocolate.jpg)
 > It has the consistency of a semi-thick milkshake drink - think a Frijj
+
 Chocolate flavour is the first one I tried. I had it for breakfast one morning, as I wasn’t really feeling a bowl of Weetabix (well, really Aldi’s [”Wheat Bisks”](https://www.mysupermarket.co.uk/asda-compare-prices/Breakfast_Cereals/Harvest_Morn_Wheat_Bisks_36_per_pack_675g.html)). I wanted a bit of a change, and reached for one of the two bottles I’d bought - naturally my hand went for chocolate over vanilla.
 
 Honestly, I was impressed. Other than breakfast maybe not being _quite_ the optimal time to try what is essentially a chocolate milkshake, this tasted _good_. Gone were any concerns of lumps of Huel getting stuck in my teeth, this was a smooth drink. It essentially has the consistency of a semi-thick milkshake drink - think a Frijj - but is obviously better for you than one of those. The chocolate flavour isn’t overly sweet nor is it overly bitter, at least to my palate. I’m sure there will be some who find it too sweet and others who find it too bitter, but for me it was perfect.
