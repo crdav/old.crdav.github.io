@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Trying this out
+comments: false
 ---
 
 
