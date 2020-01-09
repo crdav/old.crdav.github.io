@@ -75,7 +75,7 @@ However, it all comes down to convenience. Sometimes, you just want to be able t
 ### Environmental impact
 Another thing I have noticed from the bottles is that Huel RTD is produced in the USA, then shipped back to the UK before being sold here. This is in addition to being sold in a plastic bottle.
 
-For a company who have a mission statement that states their goal is: “To make nutritionally complete, convenient, affordable food, with minimum impact on animals and the environment.”[^2] it seems like this goes against their ethos. I’ve seen it explained on their forums by Huel representatives that they feel that a plant-based diet reduces environmental impact and using plastic is sort of a necessary evil - the pros balance out the cons, if you will.[^3] 
+For a company who have a mission statement that states their goal is: _“To make nutritionally complete, convenient, affordable food, with minimum impact on animals and the environment.”_[^2] it seems like this goes against their ethos. I’ve seen it explained on their forums by Huel representatives that they feel that a plant-based diet reduces environmental impact and using plastic is sort of a necessary evil - the pros balance out the cons, if you will.[^3] 
 
 Now, Huel do use recycled plastic - 25% of the bottle is made from this - with a plan to raise this to 65% by 2020 (so hopefully some news on this soon as it’s now 2020). I understand why they have decided to use plastic bottles for convenience, and sort of buy into the arguments they make. They are also readily recycled, which is another plus. However, the product being shipped from the USA to the UK is just adding extra emissions. I hope they can produce it more locally in the future.
 
@@ -101,6 +101,6 @@ _All of the products featured in this review were purchased by me. I have not re
 
 [^1]:	You can have a look at the nutrition of powder vs RTD by comparing [https://uk.huel.com/pages/the-huel-powder-formula-explained](https://uk.huel.com/pages/the-huel-powder-formula-explained) and [https://uk.huel.com/pages/the-huel-ready-to-drink-formula-explained](https://uk.huel.com/pages/the-huel-ready-to-drink-formula-explained)
 
-[^2]:	[https://uk.huel.com/pages/about-us](https://uk.huel.com/pages/about-us)
+[^2]:	Source: [https://uk.huel.com/pages/about-us](https://uk.huel.com/pages/about-us)
 
 [^3]:	They also talk about this on a specific page titled “Why does Huel Ready-to-drink use plastic?” [https://uk.huel.com/pages/why-does-huel-ready-to-drink-use-plastic](https://uk.huel.com/pages/why-does-huel-ready-to-drink-use-plastic)
