@@ -3,7 +3,6 @@ layout: post
 title: Huel Ready to Drink (RTD) Review - January 2020
 ---
 
-# Huel Ready to Drink (RTD) Review - January 2020
 ![Huel RTD Boxes](https://raw.githubusercontent.com/crdav/crdav.github.io/master/images/huel/Boxes.jpg)
 ## Background
 I’ve used (drank? eaten? consumed?) Huel before. The first time I discovered it was during my final year of university, when I tried out version 1.2 of the powder. I found it far too chalky and despite my best efforts I never could shake it enough to get rid of the lumps. I gave up on it at this point, regretting that I wasn’t able to make something useful work well for me.
