@@ -3,7 +3,8 @@ layout: post
 title: Craster and Dunstanburgh Castle
 excerpt_separator: <!--more-->
 ---
-
+![The harbour mouth](https://raw.githubusercontent.com/crdav/crdav.github.io/master/images/craster-dunstanburgh/Harbour.jpg "The harbour mouth")
+ 
 Craster is a fishing village in Northumberland, with a small harbour and a fantastic pub in the Jolly Fisherman. From Craster, there’s a walk of about a mile or so through fields up to Dunstanburgh Castle.
 The castle is in ruins, and accessible to the public and is managed jointly by English Heritage and the National Trust.
 
