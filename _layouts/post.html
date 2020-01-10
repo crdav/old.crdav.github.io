@@ -4,7 +4,14 @@ layout: default
 
 <article class="post">
   <h1>{{ page.title }}</h1>
-
+    
+<div> 
+    {% if author.bio %}
+      {% include author_bio.html %}
+  {% endif %}
+    </div>
+     
+    
   <div class="entry">
     {{ content }}
   </div>
@@ -15,9 +22,7 @@ layout: default
  
     
 
-  {% if author.bio %}
-      {% include author_bio.html %}
-  {% endif %}
+
     
   {% include disqus.html %}
 </article>
