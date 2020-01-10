@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Craster and Dunstanburgh Castle
+author: chris_davies
 excerpt_separator: <!--more-->
 ---
 ![The harbour mouth](https://raw.githubusercontent.com/crdav/crdav.github.io/master/images/craster-dunstanburgh/Harbour.jpg "The harbour mouth")
