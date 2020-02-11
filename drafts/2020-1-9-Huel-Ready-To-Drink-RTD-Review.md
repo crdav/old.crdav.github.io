@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Huel Ready to Drink (RTD) v1.0 Review
+sitemap: false
 ---
 
 ![RTD Chocolate Bottle](https://raw.githubusercontent.com/crdav/crdav.github.io/master/images/huel/RTD-Chocolate.jpg)
