@@ -7,6 +7,6 @@ permalink: /about/
 
 Hi. I'm Chris, a GP Registrar in the North East of England.
 
-You'll find some photos I've taken on my [Flickr](https://www.flickr.com/crdav92) and [Instagram](https://instagram.com/crdav92). I don't tweet much, but am also on [Twitter](https://www.twitter.com/crd92).
+You'll find some photos I've taken on my [Flickr](https://www.flickr.com/crdav92) and [Instagram](https://instagram.com/crdav92). I don't tweet much, but am also on [Twitter](https://www.twitter.com/DrCRDavies).
 
 If you like running and cycling (me too!), you can find me on [Strava](https://www.strava.com/athletes/crd92).
