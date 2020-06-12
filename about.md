@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+![Chris Davies](https://raw.githubusercontent.com/crdav/crdav.github.io/master/images/CRD.jpg)
 
 Hi. I'm Chris, a GP Trainee in the North East of England.
 
